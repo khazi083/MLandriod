@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "336206005026",
+    "firebase_url": "https://mlaxiom.firebaseio.com",
+    "project_id": "mlaxiom",
+    "storage_bucket": "mlaxiom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336206005026:android:70e4a01df0eca6a2",
+        "android_client_info": {
+          "package_name": "com.axiom.mlaxiom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336206005026-0as8nc3405tn4fe0gvs3fdku5o0u8s88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvWk1wYP_oom830ly9utro1hls40iUjC8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
